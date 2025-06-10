@@ -5,9 +5,16 @@
     <title>JSX.lol</title>
     <description>JSX.lol - Does anybody actually like React? A cherry-picked collection of React (and React-tainted) criticism.</description>
     <link>https://jsx.lol</link>
-    <lastBuildDate>Fri, 09 May 2025 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Apr 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://jsx.lol/rss.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
+<item>
+  <title>Why Silicon Valley CTOs Are Secretly Moving Away from React</title>
+  <description>Several CTOs mentioned a surprising problem: while React developers are plentiful, truly skilled ones who understand the deeper patterns are increasingly rare and expensive. [...] Several companies reported that their most experienced engineers were getting frustrated with the growing complexity and leaving for roles using other technologies.</description>
+  <link>https://freedium.cfd/https://javascript.plainenglish.io/why-silicon-valley-ctos-are-secretly-moving-away-from-react-bdf64f0b6072</link>
+  <guid isPermaLink="false">2c5m6s494yw306t6518355i4q3j24v5y72i1t</guid>
+  <pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>HTML is better than React!?</title>
   <description>[...] baseline HTML that gets progressively enhanced into something better when JS is available… 1. Gives people a more usable experience earlier in the process. 2. Ensures that on slow connections your site doesn’t seem like trash. 3. Means that if something goes wrong, people can still use your site.</description>
