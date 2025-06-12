@@ -5,9 +5,16 @@
     <title>JSX.lol</title>
     <description>JSX.lol - Does anybody actually like React? A cherry-picked collection of React (and React-tainted) criticism.</description>
     <link>https://jsx.lol</link>
-    <lastBuildDate>Mon, 21 Apr 2025 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jun 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://jsx.lol/rss.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
+<item>
+  <title>Next.js 15.1+ is unusable outside of Vercel</title>
+  <description>Next.js has become a Vercel vendor lock-in disguised as an open-source framework. Save yourself the headache and choose something else for your "next" project.</description>
+  <link>https://omarabid.com/nextjs-vercel</link>
+  <guid isPermaLink="false">234l2x583o4n1z1c2e3o6qz2g216o4d512l6g</guid>
+  <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Why Silicon Valley CTOs Are Secretly Moving Away from React</title>
   <description>Several CTOs mentioned a surprising problem: while React developers are plentiful, truly skilled ones who understand the deeper patterns are increasingly rare and expensive. [...] Several companies reported that their most experienced engineers were getting frustrated with the growing complexity and leaving for roles using other technologies.</description>
