@@ -5,9 +5,16 @@
     <title>JSX.lol</title>
     <description>JSX.lol - Does anybody actually like React? A cherry-picked collection of React (and React-tainted) criticism.</description>
     <link>https://jsx.lol</link>
-    <lastBuildDate>Thu, 12 Jun 2025 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://jsx.lol/rss.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
+<item>
+  <title>Conferences, Clarity, and Smokescreens</title>
+  <description>My day-to-day consulting work, along with high-visibility industry data, shows that the React community is mired in a deep, measurable quality crisis. But attendees of React Summit who didn't already know wouldn't hear about it.</description>
+  <link>https://infrequently.org/2025/06/conferences-clarity-and-smokescreens/</link>
+  <guid isPermaLink="false">2r3c6k2g1f4t30o5q365n6b202u20373h2j1z2p</guid>
+  <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Next.js 15.1+ is unusable outside of Vercel</title>
   <description>Next.js has become a Vercel vendor lock-in disguised as an open-source framework. Save yourself the headache and choose something else for your "next" project.</description>
