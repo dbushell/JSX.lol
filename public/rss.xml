@@ -5,9 +5,16 @@
     <title>JSX.lol</title>
     <description>JSX.lol - Does anybody actually like React? A cherry-picked collection of React (and React-tainted) criticism.</description>
     <link>https://jsx.lol</link>
-    <lastBuildDate>Tue, 01 Jul 2025 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Aug 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://jsx.lol/rss.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
+<item>
+  <title>The React Blog Post: Reflections and Reactions</title>
+  <description>To dismiss this entire problem as a "skill issue" and imply all is good now because an external library solved an issue that React will allow you to do is very curious to me. [...] You would think you can come back to a technology after three years and still be able to work on it - I mean, how much can it change? In any other stack, that might be true, but in frontend development, and React especially so - it's too naive to think that.</description>
+  <link>https://mbrizic.com/blog/react-ii/</link>
+  <guid isPermaLink="false">313j7056486851583c733p5o31266i2d4624194f</guid>
+  <pubDate>Sat, 02 Aug 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>React Still Feels Insane And No One Is Talking About It</title>
   <description>It would be too easy to just say React is, well, downright insane, and go on with our lives. But as reasonable primates, I believe we can do better. We can try to understand it.</description>
